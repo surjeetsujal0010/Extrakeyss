@@ -1,0 +1,6 @@
+cd 
+cd /data/data/com.termux/files/usr/C.S.G
+cd Extrakeyss
+cd .core
+python install.py
+
